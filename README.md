@@ -1,6 +1,6 @@
 - 👋 Hello za warudo ! I’m the biggest neet on this planet, rahimi.
 - 👀 I’m interested in computer programming and technology.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python.
 - 💻️ I'm very interested in linux, but still learning though. 
 
 <!---
