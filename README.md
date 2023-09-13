@@ -1,7 +1,7 @@
 - 👋 Hello za warudo ! I’m the biggest neet on this planet, rahimi.
 - 👀 I’m interested in computer programming and technology.
 - 🌱 I’m currently learning Python.
-- 💻️ I'm very interested in linux, but still learning though. # Currently using Void Linux
+- 💻️ I'm planning to add flask backend to (almost) all my repository!
 
 <!---
 rahimi-mohd/rahimi-mohd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
